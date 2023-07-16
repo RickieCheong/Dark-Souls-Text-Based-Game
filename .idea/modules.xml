@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Dark souls text game.iml" filepath="$PROJECT_DIR$/.idea/Dark souls text game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FIT2099_Lab2Team8_master/FIT2099_A3_Team8/FIT2099_A3_Team8.iml" filepath="$PROJECT_DIR$/FIT2099_Lab2Team8_master/FIT2099_A3_Team8/FIT2099_A3_Team8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FIT2099_Lab2Team8_master/project-master/project-master.iml" filepath="$PROJECT_DIR$/FIT2099_Lab2Team8_master/project-master/project-master.iml" />
+    </modules>
+  </component>
+</project>
